@@ -33,7 +33,7 @@ app.get('/', function(req, res) {
       {
         id: 1,
         title: 'What we do?',
-        description: "Inspire Creativity: We host ideation workshops to spark innovative thinking. Learn and Grow: We provide learning opportunities to expand your knowledge and skills. Collaborate: We encourage teamwork and offer resources for project development. Connect: We organize networking events for valuable connections and experiences.",
+        description: "Inspire Creativity: We host Ideation workshops to spark innovative thinking. Learn and Grow: We provide learning opportunities to expand your knowledge and skills. Collaborate: We encourage teamwork and offer resources for project development. Connect: We organize networking events for valuable connections and experiences.",
       }
     ];
 });
@@ -43,7 +43,7 @@ app.get('/', function(req, res) {
           {
             id: 1,
             title: 'How we meet?',
-            description: "Insight Quirks emerged from a diverse mix of alumni, seasoned professionals, and enthusiasts across various domains who shared a passion for unique perspectives and knowledge sharing. Our club was born out of a desire to create a vibrant community where unconventional thinking, creativity, and curiosity thrive. Today, we're a growing family, united by our quirks and driven by the collective insight we bring to the table.",
+            description: "Insight Quirks Emerged from a diverse mix of Alumni, seasoned professionals, and enthusiasts across various domains who shared a passion for unique perspectives and knowledge sharing. Our club was born out of a desire to create a vibrant community where unconventional thinking, creativity, and curiosity thrive. Today, we're a growing family, united by our quirks and driven by the collective insight we bring to the table.",
           }
         ];
   
@@ -57,7 +57,7 @@ app.get('/', function(req, res) {
         id: 1,
         name: 'Nishant Bhadke',
         imageUrl: 'http://localhost:5173/team/Nishant.jpg',
-        description: 'Experienced .NET Core developer with 2+ years in C#, ASP.NET Core, and SQL Server. Proficient in backend systems, RESTful APIs, and AWS services. Detail-oriented, on-time delivery, open to collaboration.',
+        description: 'Experienced .NET Core developer with 3+ years in C#, ASP.NET Core, and SQL Server. Proficient in backend systems, RESTful APIs, and AWS services. Detail-oriented, on-time delivery, open to collaboration.',
         socialLinks: [
             {
               name: 'LinkedIn',
